@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="478px" viewBox="0 0 1440 478" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0.762 L0,104.291 C224.231,4.489 352.118,111.64 458.348,218.791 L458.348,218.791 C535.506,296.618 601.24,374.445 684.168,372.972 L684.168,372.972 C804.935,370.827 833.467,322.189 977.222,349.165 L977.222,349.165 C1128.752,377.6 1278.889,536.615 1481.253,535.21 L1481.253,535.21 C1586.946,534.478 1709.02,372.26 1800,376.019 L1800,376.019 L1800,0.762 L0,0.762 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layout-a">
+            <g id="Group-3" transform="translate(-114.000000, -56.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0,-1 L0,102.529 C224.231,2.727 352.118,109.878 458.348,217.029 C535.506,294.856 601.24,372.683 684.168,371.21 C804.935,369.065 833.467,320.427 977.222,347.403 C1128.752,375.838 1278.889,534.853 1481.253,533.448 C1586.946,532.716 1709.02,370.498 1800,374.257 L1800,-1 L0,-1 Z" id="Fill-1" fill="#FFEBC2" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

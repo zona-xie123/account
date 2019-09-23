@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 42</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M39,19.5004322 C39,30.2696629 30.2696629,39 19.4995678,39 C8.73120138,39 0,30.2696629 0,19.5004322 C0,8.73120138 8.73120138,0 19.4995678,0 C30.2696629,0 39,8.73120138 39,19.5004322" id="Fill-42" fill="#AECCC3"></path>
+        <polygon id="Fill-43" fill="#FFFFFF" points="25 26 28 26 28 18 25 18"></polygon>
+        <path d="M29.5415397,15.1590106 L20.564021,9.17491166 C20.4041341,9.06537102 20.2097964,9 19.9995583,9 C19.7902036,9 19.5958659,9.06537102 19.435979,9.17491166 L10.4584603,15.1590106 C10.1828541,15.3365724 10,15.6475265 10,16 C10,16.5521201 10.4469767,17 10.9990725,17 L29.0000442,17 C29.5530233,17 30,16.5521201 30,16 C30,15.6475265 29.8171459,15.3365724 29.5415397,15.1590106" id="Fill-44" fill="#FFFFFF"></path>
+        <polygon id="Fill-45" fill="#FFFFFF" points="18 26 21 26 21 18 18 18"></polygon>
+        <path d="M28.0009324,27 L11.9999509,27 C11.4505079,27 11,27.4498453 11,27.9986743 C11,28.5501547 11.4505079,29 11.9999509,29 L28.0009324,29 C28.5503754,29 29,28.5501547 29,27.9986743 C29,27.4498453 28.5503754,27 28.0009324,27" id="Fill-46" fill="#FFFFFF"></path>
+        <polygon id="Fill-47" fill="#FFFFFF" points="11 26 14 26 14 18 11 18"></polygon>
+    </g>
+</svg>

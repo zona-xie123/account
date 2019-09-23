@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="56px" viewBox="0 0 86 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>credit-card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="credit-card" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#80CAEC" x="7" y="7" width="79" height="49" rx="6"></rect>
+            <rect id="Rectangle" fill="#29ABE2" x="0" y="0" width="79" height="49" rx="6"></rect>
+            <circle id="Oval" fill="#F7931E" cx="63" cy="35" r="6"></circle>
+            <rect id="Rectangle" fill="#F2F2F2" x="6" y="34" width="3" height="3"></rect>
+            <rect id="Rectangle" fill="#F2F2F2" x="12" y="34" width="20" height="3"></rect>
+            <rect id="Rectangle" fill="#F2F2F2" x="6" y="40" width="37" height="3"></rect>
+            <rect id="Rectangle" fill="#F2F2F2" x="37" y="7" width="3" height="3"></rect>
+            <rect id="Rectangle" fill="#F2F2F2" x="44" y="7" width="13" height="3"></rect>
+            <rect id="Rectangle" fill="#F2F2F2" x="38" y="13" width="33" height="3"></rect>
+            <circle id="Oval" fill="#C1272D" cx="54" cy="35" r="6"></circle>
+        </g>
+    </g>
+</svg>
